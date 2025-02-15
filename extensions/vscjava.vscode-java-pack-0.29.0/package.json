@@ -51,24 +51,8 @@
 		"workspaceContains:settings.gradle.kts",
 		"workspaceContains:*/settings.gradle.kts",
 		"workspaceContains:.classpath",
-		"workspaceContains:*/.classpath",
-		"onCommand:java.overview",
-		"onCommand:java.showReleaseNotes",
-		"onWebviewPanel:java.overview",
-		"onCommand:java.runtime",
-		"onCommand:java.gettingStarted",
-		"onWebviewPanel:java.gettingStarted",
-		"onCommand:java.extGuide",
-		"onWebviewPanel:java.extGuide",
-		"onCommand:java.welcome",
-		"onWebviewPanel:java.welcome",
-		"onCommand:java.installJdk",
-		"onWebviewPanel:java.installJdk",
-		"onCommand:java.classpathConfiguration",
-		"onCommand:java.projectSettings",
-		"onWebviewPanel:java.projectSettings",
-		"onCommand:java.formatterSettings",
-		"onWalkthrough:javaWelcome"
+		"workspaceContains:*/.classpath"
+	
 	],
 	"contributes": {
 		"javaShortcuts": [

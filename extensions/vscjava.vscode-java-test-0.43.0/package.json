@@ -46,11 +46,7 @@
 		"workspaceContains:settings.gradle.kts",
 		"workspaceContains:*/settings.gradle.kts",
 		"workspaceContains:.classpath",
-		"workspaceContains:*/.classpath",
-		"onCommand:java.test.editor.run",
-		"onCommand:java.test.editor.debug",
-		"onCommand:java.test.runFromJavaProjectExplorer",
-		"onCommand:java.test.debugFromJavaProjectExplorer"
+		"workspaceContains:*/.classpath"
 	],
 	"main": "./main.js",
 	"contributes": {

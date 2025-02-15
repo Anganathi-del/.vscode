@@ -40,7 +40,7 @@
 		"multi-root ready"
 	],
 	"activationEvents": [
-		"onLanguage:java",
+		
 		"workspaceContains:pom.xml",
 		"workspaceContains:*/pom.xml",
 		"workspaceContains:build.gradle",
